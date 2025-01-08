@@ -4,4 +4,4 @@
 
 ## Casos de uso
 
-![Caso de uso General](Imagenes/CasodeUsoGeneral.png)
+![Caso de uso General](media/CasodeUsoGeneral.png)
